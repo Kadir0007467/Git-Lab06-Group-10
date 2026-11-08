@@ -1,0 +1,8 @@
+Group Number:10
+Member 1    :Muzaqqir(2023-2-60-193)
+Member 2    :Abira Ahsan(2023-2-60-127)
+Member 3    :Abdul Kadir(2023-3-60-486)
+Member 4    :Nobel Ahmed(2023-3-60-089)
+Course Code :CSE-412
+Lab Work    :06
+Topic       :Git Repository 
