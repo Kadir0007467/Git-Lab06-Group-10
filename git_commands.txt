@@ -1,0 +1,10 @@
+1. git init - Initializes a local repository.
+2. git status - Displays repository status.
+3. git add - Stages files.
+4. git commit - Saves changes.
+5. git log - Displays commit history.
+6. git diff - Shows file changes.
+7. git push - Uploads commits to GitHub.
+8. git pull - Downloads changes from GitHub.
+9. git clone - Copies a remote repository.
+10. git branch - Displays branches
